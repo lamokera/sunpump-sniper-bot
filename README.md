@@ -1,6 +1,6 @@
 # sunpump-sniper-bot
 
-The `sunpump-sniper-bot` is a tool designed to automate the monitoring, buying, and selling of tokens on the SunPump.Meme platform on the TRON blockchain. It listens for new token creations, evaluates the top holders' percentages,checks for social links, buys tokens if they meet the criteria, and sells them after a specified delay. The bot also manages a snipelist and optionally a blacklist.
+The `sunpump-sniper-bot` is a tool designed to automate the monitoring, buying, and selling of tokens on the SunPump.Meme platform on the TRON blockchain. It listens for new token creations, evaluates the top holders' percentages, checks for social links, buys tokens if they meet the criteria, and sells them after a specified delay. The bot also manages a snipelist and optionally a blacklist.
 
 ## Features
 
