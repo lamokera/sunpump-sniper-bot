@@ -106,5 +106,6 @@ Before running the bot, ensure you have:
 [Watch the video demo on YouTube](https://youtu.be/94jDIyTWHQ8?si=uRSY6t1SyeFGLaZt)
 
 ## Contact
+- **The sniper is fully ready and functional, contact in telegram for price, guide and other info.**
 
 - **Telegram:** [t.me/+XcOrOHTJ5BNkNDdh](https://t.me/+XcOrOHTJ5BNkNDdh)
